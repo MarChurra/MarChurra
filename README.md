@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marco Churra</h1>\
+<h1 align="center">Hi 👋, I'm Marco Churra</h1>
 <h3 align="center">I’m a Front-End Developer from Portugal, specializing mainly in React.JS, Typescript, Node.Js, Next.Js and UI/UX design</h3>
 <h3 align="center">Huge RPG and gaming nerd, nature lover and 1st Kyudo Dan</h3>
 
