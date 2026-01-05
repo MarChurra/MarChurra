@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marco Churra</h1>
-<h4 align="center">I’m a Front-End Developer from Portugal, specializing mainly in React.JS, Typescript, Node.Js, Next.Js and UI/UX design</h4>
-<h5 align="center">Huge RPG and gaming nerd, nature lover and 1st Kyudo Dan</h5>
-<br>
-- 🔭 I’m currently working on a savings application **Lumi**
-<br>
+<h4 align="center">I’m a Tech Enthusiast from Portugal, currently working as a IT Helpdesk Technician and studying web development and cybersecurity/h4>
+<h5 align="center">I love gaming, especially RPG´s, nature lover and 2nd Kyudo Dan</h5>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/marcochurra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcochurra/" height="30" width="40" /></a>
